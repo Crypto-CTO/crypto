@@ -1,7 +1,7 @@
 Crypto integration/staging tree
 ================================
 
-http://http://tailflick.wix.com/official-crypto
+http://cto.finance/
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
@@ -19,7 +19,7 @@ Crypto is a lite version of Bitcoin using Lyra2RE as a proof-of-work algorithm.
  - 5 coins per block initially (changes every 10 days for 25 years)
  - Every block to retarget difficulty with Dark Gravity wave v3 algorithm
 
-For more information, as well as an immediately useable, binary version of the Crypto client sofware, see http://tailflick.wix.com/official-crypto
+For more information, as well as an immediately useable, binary version of the Crypto client sofware, see http://cto.finance/
 
 License
 -------
